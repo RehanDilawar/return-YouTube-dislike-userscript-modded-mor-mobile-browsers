@@ -19,7 +19,7 @@ First of all you need to have [Tampermonkey](https://www.tampermonkey.net/) or V
 # 💡Suggested Browser
 ## [<img width="50" height="50" alt="image" src="https://viayoo.com/en/images/via-logo.svg" align="top" />](https://viayoo.com/en/)[Via](https://viayoo.com/en/)
 #### Via Browser is an extremely lightweight chromium browser that uses system webview. The browser is of less than **5mbs** total. It comes with ```powerful ad blocking, tracker prevention, third-party cookie disabling, script support, homepage customization, website settings```, and a host of other features to create a truly personalized browsing experience.
-<img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/43404b1f-e7a5-43df-a650-a546f0833754" /> <img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/48ef19eb-92a9-4077-874d-2f81fdbdc5df" /> <img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/d6bb28d4-3e16-47a3-b5d5-67d90c82fa63" />
+<img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/315d4fcc-0cff-4b96-b6f8-66ee286931e8" /> <img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/43404b1f-e7a5-43df-a650-a546f0833754" /> <img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/48ef19eb-92a9-4077-874d-2f81fdbdc5df" /> <img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/d6bb28d4-3e16-47a3-b5d5-67d90c82fa63" />
 
 
 
