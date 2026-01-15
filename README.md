@@ -16,6 +16,24 @@ First of all you need to have [tampermonkey](https://www.tampermonkey.net/) or V
 ### [<img width="30" height="30" alt="image" src="https://play-lh.googleusercontent.com/d40s5qfJB2xs8DrBjNZTy659ynzG9dn-llx2L1_ZFO5uTZaeHKUIElyk03s3yaFGMWE" align="top" />](https://lemurbrowser.com/app/en.html)[Lemur](https://lemurbrowser.com/app/en.html)
 ### [<img width="30" height="30" alt="image" src="https://avatars.githubusercontent.com/u/92134273?s=200&v=4" align="top" />](https://orionbrowser.com/)[Orion](https://orionbrowser.com/)
 ### [<img width="30" height="30" alt="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Safari_browser_logo.svg/500px-Safari_browser_logo.svg.png" align="top" />](https://apps.apple.com/us/app/safari/id1146562112)[Safari](https://apps.apple.com/us/app/safari/id1146562112)
+# Suggested Browser
+## [<img width="50" height="50" alt="image" src="https://viayoo.com/en/images/via-logo.svg" align="top" />](https://viayoo.com/en/)[Via](https://viayoo.com/en/)
+#### Via Browser is an extremely lightweight chromium browser that uses system webview. The browser is of less than **5mbs** total. It comes with ```powerful ad blocking, tracker prevention, third-party cookie disabling, script support, homepage customization, website settings```, and a host of other features to create a truly personalized browsing experience.
+<img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/43404b1f-e7a5-43df-a650-a546f0833754" /> <img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/48ef19eb-92a9-4077-874d-2f81fdbdc5df" /> <img width="300" height="700" alt="image" src="https://github.com/user-attachments/assets/d6bb28d4-3e16-47a3-b5d5-67d90c82fa63" />
+
+
 
 ## [<img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/88e674e2-9b8d-41ae-85c5-23725b71ca77" align="top" />](https://greasyfork.org/en/scripts/562613-return-youtube-dislike-mobile-optimized) [Greasy Fork](https://greasyfork.org/en/scripts/562613-return-youtube-dislike-mobile-optimized)
 You can find the script [here](https://greasyfork.org/en/scripts/562613-return-youtube-dislike-mobile-optimized)
+# In UI
+## Without script installed
+![Screenshot_2026-01-15-13-38-55-42](https://github.com/user-attachments/assets/8bbb1f00-6af0-4c00-ac68-c5858ee3aee9)
+
+
+## With script installed
+![Screenshot_2026-01-15-13-37-46-38](https://github.com/user-attachments/assets/85e01428-60a4-40d2-8586-9d788f7b37a0)
+
+
+
+# Made with love 
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/02c0b6b3-41d1-4fd6-bae2-facbb880f227" />
